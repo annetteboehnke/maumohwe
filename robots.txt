@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eupheiquoh.weyo.me/sitemap.xml
